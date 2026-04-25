@@ -1,0 +1,2 @@
+# Development-of-a-Spam-Email-Detection-Web-Application-Using-Machine-Learning
+Spam emails remain a major threat due to their role in phishing, malware, and financial fraud. This project proposes a hybrid spam detection model combining DistilBERT contextual embeddings with ten supervised machine learning classifiers. Using the Email Spam Collection Dataset, the Multi-Layer Perceptron achieved the best accuracy of 98.03%
